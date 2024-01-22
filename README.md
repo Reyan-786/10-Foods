@@ -1,4 +1,4 @@
-# 10Foods Streamlit App
+# 10 Foods Streamlit App
 
 ## Overview
 
@@ -17,13 +17,15 @@ This Streamlit app, named 10Foods, allows users to upload or capture an image of
    ```bash
    git clone https://github.com/your-username/10Foods-Streamlit-App.git
 ```
-2. Install the requirements.txt: 
+
+2. Install the requirements: 
 
 ```bash
  pip install -r requirements.txt
 ```
 
-3. Run the app: 
+3. Run the app:
+   
    ```bash
    streamlit run --server.runOnSave True app.py
    ```
@@ -36,12 +38,13 @@ This Streamlit app, named 10Foods, allows users to upload or capture an image of
 3. Explore information about the identified food.
 
 ## File Structure
-**app.py**: Main Streamlit app script.
-**Models/preprocessed_mobileNet_3.h5**: Pre-trained deep learning model.
-**utils.py**: Utility functions.
-**nutrition.py**: Nutritional information data.
-**recpes.py**: Recipes data.
+
+1. **app.py**: Main Streamlit app script.
+2. **Models/preprocessed_mobileNet_3.h5**: Pre-trained deep learning model.
+3. **utils.py**: Utility functions.
+4. **nutrition.py**: Nutritional information data.
+5. **recpes.py**: Recipes data.
 
 **Visit the deployment** @ https://one0-foods-food-info-app.onrender.com/</h3>
 
-<footer style ='text-align:center;'> Crafted by Reyan.</footer>
+<footer style='text-align: center;'>Crafted by Reyan.</footer>
