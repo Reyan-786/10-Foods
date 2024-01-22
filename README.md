@@ -18,17 +18,16 @@ This Streamlit app, named 10Foods, allows users to upload or capture an image of
    git clone https://github.com/your-username/10Foods-Streamlit-App.git
 ```
 
-2. Install the requirements: 
-
-```bash
- pip install -r requirements.txt
+2. Install the required dependencies:
+   ```bash
+    pip install -r requirements.txt
 ```
 
 3. Run the app:
-   
-   ```bash
-   streamlit run --server.runOnSave True app.py
+      ```bash
+      streamlit run --server.runOnSave True app.py
    ```
+
 
 ## Usage
 1. Open the app in your web browser.
