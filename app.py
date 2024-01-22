@@ -2,7 +2,7 @@ import streamlit as st
 from tensorflow.keras.models import load_model
 from utils import classify_food
 
-model = load_model('Models/preprocessed_mobileNet_3.h5')
+model = load_model("Models/preprocessed_mobileNet_3.h5")
 
 st.markdown("<h1 style='text-align: center; color: #FF5733;'>Hi Foody! 😋 </h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #333;'>Wanna know about the food that you are eating?</p>", unsafe_allow_html=True)
