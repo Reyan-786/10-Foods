@@ -1,0 +1,8 @@
+etc
+Include
+Lib/
+Scripts/
+share/ 
+__pycache__
+Models/mobilenet_1_shallow.h5
+Models/preprocessed_mobileNet_2.h5
