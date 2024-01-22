@@ -49,3 +49,4 @@ def classify_food(uploaded_file, model , class_indices):
     st.write(f"\n{recpe}")
  
 
+
