@@ -44,6 +44,6 @@ This Streamlit app, named 10Foods, allows users to upload or capture an image of
 4. **nutrition.py**: Nutritional information data.
 5. **recpes.py**: Recipes data.
 
-**Visit the deployment** @ https://one0-foods-food-info-app.onrender.com/</h3>
+**Visit the deployment** @ https://10-foods.streamlit.app/</h3>
 
 <footer style='text-align: center;'>Crafted by Reyan.</footer>
