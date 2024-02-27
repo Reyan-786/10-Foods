@@ -44,6 +44,6 @@ A streamlit based web app of a deep learning model for a food classification tas
 4. **nutrition.py**: Nutritional information data.
 5. **recpes.py**: Recipes data.
 
-**Visit the deployment** @ https://foodxnet.streamlit.app/ </h3>
+
 
 <footer style='text-align: center;'>Crafted by Reyan.</footer>
