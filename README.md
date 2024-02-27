@@ -1,8 +1,8 @@
-# 10 Foods Streamlit App
+# Food X Net Streamlit App
 
 ## Overview
 
-This Streamlit app, named 10Foods, allows users to upload or capture an image of food and identifies the food category using a pre-trained deep learning model.
+A streamlit based web app of a deep learning model for a food classification task!
 
 ## Features
 
@@ -39,11 +39,11 @@ This Streamlit app, named 10Foods, allows users to upload or capture an image of
 ## File Structure
 
 1. **app.py**: Main Streamlit app script.
-2. **Models/preprocessed_mobileNet_3.h5**: Pre-trained deep learning model.
+2. **Models/**: Pre-trained deep learning models on the Food 101 dataset.
 3. **utils.py**: Utility functions.
 4. **nutrition.py**: Nutritional information data.
 5. **recpes.py**: Recipes data.
 
-**Visit the deployment** @ https://10-foods.streamlit.app/</h3>
+**Visit the deployment** @ https://foodxnet.streamlit.app/ </h3>
 
 <footer style='text-align: center;'>Crafted by Reyan.</footer>
