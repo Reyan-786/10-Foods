@@ -15,7 +15,7 @@ A streamlit based web app of a deep learning model for a food classification tas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/10Foods-Streamlit-App.git
+   git clone https://github.com/Reyan-786/10Foods-Streamlit-App.git
 ```
 
 3. Install dependencies:
