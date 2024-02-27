@@ -25,7 +25,7 @@ st.markdown(f'<style>{css}</style>',unsafe_allow_html =True)
 model = load_model("Models/InceptionV3_Finetuned_loss7977_Acc_8248.h5")
 
 st.markdown("<h1 style='text-align: center; color: #FF5733;'>Hi Foody! 🍓 </h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>Wanna know about the food that you are eating..?</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Wanna know about the food that you are eating?</p>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: #007BFF; animation: pulse 2s infinite;'>Welcome to Food X Net!</h3>", unsafe_allow_html=True)
 
 uploaded_file = st.file_uploader("Want to upload a delicious photo?")
