@@ -6,4 +6,5 @@ share/
 __pycache__
 Models/mobilenet_1_shallow.h5
 Models/preprocessed_mobileNet_2.h5
+Models/preprocessed_mobileNet_3.h5
 .env
