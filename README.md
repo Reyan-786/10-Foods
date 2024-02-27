@@ -1,4 +1,4 @@
-# Food X Net Streamlit App
+# FoodNet Streamlit App
 
 ## Overview
 
